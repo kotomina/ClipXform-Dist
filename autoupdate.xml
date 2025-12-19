@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+    <version>0.9.2</version>
+    <url>https://github.com/kotomina/ClipXform-Dist/releases/download/v0.9.2/ClipXform.Installer.msi</url>
+    <changelog>https://github.com/kotomina/ClipXform-Dist/releases/tag/v0.9.2</changelog>
+    <mandatory>false</mandatory>
+</item>
