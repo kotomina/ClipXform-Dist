@@ -4,5 +4,5 @@
     <url>https://github.com/kotomina/ClipXform-Dist/releases/download/v0.10.3/ClipXform.Installer.msi</url>
     <changelog>https://raw.githubusercontent.com/kotomina/ClipXform-Dist/main/release-notes-v0.10.3.md</changelog>
     <mandatory>false</mandatory>
-    <checksum algorithm="SHA512">6dbdcfd23e96c5eb8f5f534555da1ea13ec7a18b45fcf164f11770ef5a93ec7b8dbdff0e5430ead583d45a76f45fe5e40a2ed7a64f5cf2095ff464a395b360ce</checksum>
+    <checksum algorithm="SHA512">26807b48901947a5a710df4e922df09296f11bf2e350ab621ce1d1aea110a6408324b9eb43c01b4734e26cda7803179c8f879c2e84e3100449e47ca78b5364ee</checksum>
 </item>
