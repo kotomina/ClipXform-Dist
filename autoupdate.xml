@@ -1,6 +1,6 @@
 <item>
-    <version>0.16.3</version>
-    <url>https://github.com/kotomina/ClipXform-Dist/releases/download/v0.16.3/ClipXform.Installer.msi</url>
+    <version>0.17.0</version>
+    <url>https://github.com/kotomina/ClipXform-Dist/releases/download/v0.17.0/ClipXform.Installer.msi</url>
     <changelog>https://raw.githubusercontent.com/kotomina/ClipXform-Dist/main/RELEASE_NOTES.md</changelog>
     <mandatory>false</mandatory>
 </item>
