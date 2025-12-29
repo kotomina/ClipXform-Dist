@@ -1,11 +1,11 @@
 ## [0.17.0] - 2025-12-29
-### UX Improvements
-- **AI Analysis Indicator**: Added a visual spinner to show when AI analysis is in progress.
-- **Smart Recommendations**: Stale recommendations are now automatically hidden when a transformation is selected.
-- **Re-analysis**: The application now automatically re-analyzes the result after a transformation is applied.
-### Settings & Opt-in
-- **Opt-in for AI**: AI Smart Actions are now disabled by default. A new switch in Settings allows users to enable them.
-- **Logic Separation**: Local heuristics (JSON/URL detection) now work independently of the global AI setting.
+### UXの改善
+- **AI分析インジケータ**: AI分析の実行中にスピナーを表示し、進行状況を可視化しました。
+- **スマートな推奨表示**: 変換を選択した際、古くなった推奨アクションを自動的に非表示にするようにしました。
+- **再分析**: 変換実行後の結果に対しても、自動的に再分析を行うようになりました。
+### 設定とオプトイン
+- **AI機能のオプトイン化**: AIスマートアクションはデフォルトで無効になりました。設定画面のスイッチから有効化できます。
+- **ロジックの分離**: ローカル分析（JSON/URL検出）は、AI設定のON/OFFに関わらず独立して動作するようになりました。
 
 ## [0.16.3] - 2025-12-28
 ### Internal
