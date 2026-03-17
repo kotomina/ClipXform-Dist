@@ -1,5 +1,5 @@
 ﻿【ソフト名】      ClipXform
-【バージョン】    0.17.8
+【バージョン】    0.17.9
 【作者】          tomy (連絡先: revol8er@gmail.com)
 【種別】          フリーソフト
 【動作環境】      Windows 11 (.NET 9.0 Runtime)
