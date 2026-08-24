@@ -1,3 +1,8 @@
+## Unreleased
+
+- 製品buildと配布の正本をCargo/Rust nativeへ切り替え、外部production certificateと更新公開鍵を必須とするsigned MSIXを導入しました。
+- upgrade/uninstallはpackage-owned filesだけを更新・削除し、既存のhistory、snippet、settings、secretを保持します。
+
 ## v0.17.27 (2026-07-28)
 
 ### グローバルホットキー設定
