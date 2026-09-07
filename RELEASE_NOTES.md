@@ -1,7 +1,7 @@
-## Unreleased
+## v0.17.28 (2026-09-07)
 
-- 製品buildと配布の正本をCargo/Rust nativeへ切り替え、外部production certificateと更新公開鍵を必須とするsigned MSIXを導入しました。
-- upgrade/uninstallはpackage-owned filesだけを更新・削除し、既存のhistory、snippet、settings、secretを保持します。
+- 製品buildをCargo/Rust nativeへ切り替え、従来MSIと`autoupdate.xml`による更新を維持します。GitHub ReleaseはMSI、Vectorはbundled EXEとreadmeのZIPです。
+- 同一UpgradeCodeのMSI更新とRust初回起動時の非破壊移行により、既存のhistory、snippet、settings、credentialを保持します。
 
 ## v0.17.27 (2026-07-28)
 

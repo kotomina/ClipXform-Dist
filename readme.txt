@@ -1,8 +1,8 @@
 ﻿【ソフト名】      ClipXform
-【バージョン】    0.17.27
+【バージョン】    0.17.28
 【作者】          tomy (連絡先: revol8er@gmail.com)
 【種別】          フリーソフト
-【動作環境】      Windows 11 (.NET 9.0 Runtime)
+【動作環境】      Windows 11 (x64)
 【開発元HP】      https://103eng.com/
 
 【ソフトの概要】
@@ -22,8 +22,7 @@ ClipXformは、クリップボードの内容（テキスト、画像、ファ�
 2. 含まれているセットアッププログラム「ClipXformSetup_vX.X.X_Bundled.exe」をダブルクリックして実行します。
 3. インストーラーの指示に従ってインストールを完了させてください。
 
-※本ソフトの実行には .NET 9.0 Desktop Runtime が必要です。
-　起動しない場合は、Microsoft公式サイトよりランタイムをインストールしてください。
+※製品runtimeはRust nativeであり、.NET Desktop RuntimeやWebView2の追加導入は不要です。
 
 【アンインストール方法】
 Windowsの「設定」→「アプリ」→「インストールされているアプリ」から
