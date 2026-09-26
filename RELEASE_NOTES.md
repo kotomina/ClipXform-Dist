@@ -1,3 +1,17 @@
+## v1.0.1 (2026-09-26)
+
+- .NET版から移行した履歴、ピン、定型文、AI・マクロ定義を欠落なく保持するよう互換処理を修正しました。
+- 履歴一覧で選択した項目とは別の古い履歴が変換画面へ送られる問題を修正しました。
+- 履歴本文の文字切れ、グローバルホットキーでの前面化、AI送信同意と旧変換ピンIDの移行を修正しました。
+- Vertex AI Express Modeの認証、Gemini要求の`role`、chunked応答、thinkingメタデータへの対応を修正し、保存済み設定によるAI変換を復旧しました。
+
+## v1.0.0 (2026-09-24)
+
+- 製品をRust stable MSVC＋Slint FluentによるWindows native applicationへ完全移行しました。
+- 旧.NET 0.17.27とRust 0.17.28から、同一UpgradeCodeのMSIで更新できます。設定、履歴、定型文、DPAPIで保護したcredentialを維持します。
+- クリップボード監視、変換、履歴、定型文、マクロ、AI設定、常駐・tray操作をnative実装へ統合し、.NET Desktop RuntimeとWebView2を製品実行時依存から除外しました。
+- 履歴・画像・ツールチップ・キーボード操作とWindows clipboard形式の互換性を改善しました。
+
 ## v0.17.28 (2026-09-07)
 
 - 製品buildをCargo/Rust nativeへ切り替え、従来MSIと`autoupdate.xml`による更新を維持します。GitHub ReleaseはMSI、Vectorはbundled EXEとreadmeのZIPです。

@@ -1,7 +1,7 @@
 <item>
-    <version>0.17.28</version>
-    <url>https://github.com/kotomina/ClipXform-Dist/releases/download/v0.17.28/ClipXform.Installer.msi</url>
+    <version>1.0.1</version>
+    <url>https://github.com/kotomina/ClipXform-Dist/releases/download/v1.0.1/ClipXform.Installer.msi</url>
     <changelog>https://raw.githubusercontent.com/kotomina/ClipXform-Dist/main/RELEASE_NOTES.md</changelog>
-    <checksum algorithm="SHA256">0F44427F95AD7A61883096DC7607A25ABCE01BC1EE2963EF5D61B6EEA9DAD89B</checksum>
+    <checksum algorithm="SHA256">790D522A1CA0F370F93B0DF11DB656F44EEF382980C6EE0592516A1394D055F1</checksum>
     <mandatory>false</mandatory>
 </item>
