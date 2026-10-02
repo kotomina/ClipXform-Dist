@@ -1,5 +1,5 @@
 【ソフト名】      ClipXform
-【バージョン】    1.0.4
+【バージョン】    1.0.5
 【作者】          tomy (連絡先: revol8er@gmail.com)
 【種別】          フリーソフト
 【動作環境】      Windows 11 (x64)
@@ -19,7 +19,7 @@ ClipXformは、クリップボードの内容（テキスト、画像、ファ�
 
 【インストール方法】
 1. 配布ファイル(ZIP等)を解凍してください。
-2. 含まれているセットアッププログラム「ClipXformSetup_v1.0.4_Bundled.exe」をダブルクリックして実行します。
+2. 含まれているセットアッププログラム「ClipXformSetup_v1.0.5_Bundled.exe」をダブルクリックして実行します。
 3. インストーラーの指示に従ってインストールを完了させてください。
 
 ※製品runtimeはRust nativeであり、.NET Desktop RuntimeやWebView2の追加導入は不要です。
